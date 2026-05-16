@@ -9,13 +9,7 @@
 <img src="https://img.shields.io/badge/Plotly-000000?style=for-the-badge&logo=plotly&logoColor=ff69b4">
 <img src="https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=ff69b4">
 
-<br>
 
-`Parametric Equations • Polar Curves • Surface Geometry • 3D Visualization`
-
-</div>
-
----
 
 ## ✧ Overview
 
@@ -23,7 +17,7 @@ AngelMath is an interactive mathematical visualization project built with Python
 
 The application generates complex mathematical structures using parametric equations, polar equations, and surface equations within a custom black-and-pink cyber-inspired interface.
 
----
+
 
 ## ✧ Features
 
@@ -35,7 +29,6 @@ The application generates complex mathematical structures using parametric equat
 ♡ Built-in audio integration  
 ♡ Downloadable graph exports  
 
----
 
 ## ✧ Included Structures
 
@@ -50,7 +43,6 @@ The application generates complex mathematical structures using parametric equat
 ✦ Wave Grids  
 ✦ Helices  
 
----
 
 ## ✧ Technologies Used
 
@@ -61,7 +53,6 @@ Plotly
 NumPy
 ```
 
----
 
 ## ✧ Installation
 
@@ -83,17 +74,11 @@ Run the application:
 python3 -m streamlit run app.py
 ```
 
----
 
 ## ✧ Developer
 
 **Isa**  
 GitHub: https://github.com/entropyischaotic
 
----
 
-<div align="center">
 
-✦ Built with Python and mathematical visualization ✦
-
-</div>
