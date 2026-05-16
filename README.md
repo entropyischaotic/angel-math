@@ -1,40 +1,69 @@
-# AngelMath
+<div align="center">
 
-AngelMath is an interactive 3D mathematical visualization application built with Python, Streamlit, Plotly, and NumPy.
+# ✦ AngelMath ✦
 
-The application generates mathematical structures using parametric equations, polar equations, and surface equations within a custom cyber cute-inspired interface.
+### Interactive 3D Mathematical Visualization Application
 
-## Features
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=ff69b4">
+<img src="https://img.shields.io/badge/Streamlit-000000?style=for-the-badge&logo=streamlit&logoColor=ff69b4">
+<img src="https://img.shields.io/badge/Plotly-000000?style=for-the-badge&logo=plotly&logoColor=ff69b4">
+<img src="https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=ff69b4">
 
-- Interactive 3D graph rendering
-- Real-time graph selection
-- Educational equation explanations
-- Parametric and polar equation visualizations
-- Custom black and pink cyber UI
-- Audio integration (sorta)
-- Downloadable graph exports
+<br>
 
-## Included Mathematical Structures
+`Parametric Equations • Polar Curves • Surface Geometry • 3D Visualization`
 
-- Heart Curves
-- Angel Wings
-- Butterfly Curves
-- Möbius Strips
-- DNA Helices
-- Galaxy Spirals
-- Torus Surfaces
-- Rose Curves
-- Wave Grids
-- Helices
+</div>
 
-## Technologies Used
+---
 
-- Python
-- Streamlit
-- Plotly
-- NumPy
+## ✧ Overview
 
-## Installation
+AngelMath is an interactive mathematical visualization project built with Python, Streamlit, Plotly, and NumPy.
+
+The application generates complex mathematical structures using parametric equations, polar equations, and surface equations within a custom black-and-pink cyber-inspired interface.
+
+---
+
+## ✧ Features
+
+♡ Interactive 3D graph rendering  
+♡ Educational equation explanations  
+♡ Real-time graph switching  
+♡ Mathematical surface visualizations  
+♡ Cyber-inspired glossy UI  
+♡ Built-in audio integration  
+♡ Downloadable graph exports  
+
+---
+
+## ✧ Included Structures
+
+✦ Heart Curves  
+✦ Angel Wings  
+✦ Butterfly Curves  
+✦ DNA Helices  
+✦ Möbius Strips  
+✦ Galaxy Spirals  
+✦ Rose Curves  
+✦ Torus Surfaces  
+✦ Wave Grids  
+✦ Helices  
+
+---
+
+## ✧ Technologies Used
+
+```bash
+Python
+Streamlit
+Plotly
+NumPy
+```
+
+---
+
+## ✧ Installation
 
 Clone the repository:
 
@@ -54,7 +83,17 @@ Run the application:
 python3 -m streamlit run app.py
 ```
 
-## Developer
+---
 
-Isa  
+## ✧ Developer
+
+**Isa**  
 GitHub: https://github.com/entropyischaotic
+
+---
+
+<div align="center">
+
+✦ Built with Python and mathematical visualization ✦
+
+</div>
