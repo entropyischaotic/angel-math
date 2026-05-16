@@ -1,6 +1,6 @@
 <div align="center">
 
-# ✦ AngelMath ✦
+# ✦ angelmath ✦
 
 ### Interactive 3D Mathematical Visualization Application
 
@@ -13,7 +13,7 @@
 
 ## ✧ Overview
 
-AngelMath is an interactive mathematical visualization project built with Python, Streamlit, Plotly, and NumPy.
+angelmath is an interactive mathematical visualization project built with Python, Streamlit, Plotly, and NumPy.
 
 The application generates complex mathematical structures using parametric equations, polar equations, and surface equations within a custom black-and-pink cyber-inspired interface.
 
@@ -26,7 +26,7 @@ The application generates complex mathematical structures using parametric equat
 ♡ Real-time graph switching  
 ♡ Mathematical surface visualizations  
 ♡ Cyber-inspired glossy UI  
-♡ Built-in audio integration  
+♡ Built-in audio integration  (sorta)
 ♡ Downloadable graph exports  
 
 
